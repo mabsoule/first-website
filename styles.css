@@ -1,0 +1,52 @@
+h1 {
+  color: Green;
+}
+
+body {
+  background: #5D8AA8;
+}
+
+div#wrapper{
+  margin:auto;
+  background:white;
+  width:800px;
+  height:4000px;
+}
+
+header{
+
+  display: block;
+  padding: 0px 0px 0px 50px;
+
+}
+
+#logo1{
+  float: left;
+  padding: 0px 0px 50px 0px;
+}
+#logo2{
+  float: left;
+  padding: 0px 0px 50px 0px;
+}
+#logo3{
+  float: left;
+  padding: 0px 0px 50px 0px;
+}
+
+#horzNav{
+  display: black;
+  padding: 5px 0px 5px 0px;
+  background: black;
+}
+
+#horzNav a{
+  text-decoration: none;
+  padding: 0px 0px 0px 10px;
+  color: white
+}
+
+main {padding: 10px 20px 20px 20px; }
+
+a:hover{color: blue;}
+a:active{color: red;}
+a:visited{color: #9889898;}
